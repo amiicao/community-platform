@@ -11,7 +11,7 @@ For contributing directly to the platform's development, or for more information
 
 ## How to Contribute
 
-1. Navigate to the [Issues tab](https://github.com/open-webui/community/issues).
+1. Navigate to the [Issues tab](https://github.com/open-webui/community-platform/issues).
 2. Create a **New Issue**.
    - Use the provided templates for feature requests or bug reports.
    - Be as detailed as possible to help us better understand the nature of your request or issue.
